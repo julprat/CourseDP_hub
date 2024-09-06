@@ -5,4 +5,5 @@ format: jb-book
 root: intro
 chapters:
 - file: Recursive_Problem
-- file: Contraction_Mapping
+- file: Bellman_Equation
+- file: Optimal_Growth
